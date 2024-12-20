@@ -1,4 +1,4 @@
-#Name: Adam Moreland
+# Name: Adam Moreland
 # Prog Purpose: This program finds the cost of movie tickets
 #   Price for one ticket: $10.99
 #   Salex tax rate: 5.5%

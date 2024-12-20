@@ -1,4 +1,4 @@
-# Name: Adam Moreland belh
+# Name: Adam Moreland
 # Prog Purpose: This program creates a sales receipt for Brownsville Bagels
 #   Price for one bagel: $2.25
 #   Salex tax rate: 6%
